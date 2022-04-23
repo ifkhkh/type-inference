@@ -1,0 +1,14 @@
+{
+  "name": "type-inference",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "abstract-syntax-tree": "^2.20.6"
+  }
+}
